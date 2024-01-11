@@ -1,0 +1,94 @@
+﻿  2022-CS-149.cpp
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1624,22): warning C4129: '_': unrecognized character escape sequence
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1290,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1273): message : while compiling class template member function 'T MiniExcelClass<T>::calculateMin(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1836): message : see reference to function template instantiation 'T MiniExcelClass<T>::calculateMin(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1651): message : see reference to class template instantiation 'MiniExcelClass<std::string>' being compiled
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1310,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1330,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1212,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1195): message : while compiling class template member function 'T MiniExcelClass<T>::CalculateMax(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1825): message : see reference to function template instantiation 'T MiniExcelClass<T>::CalculateMax(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1233,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1253,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1140,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1126): message : while compiling class template member function 'T MiniExcelClass<T>::countNumbers(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1814): message : see reference to function template instantiation 'T MiniExcelClass<T>::countNumbers(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1157,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1174,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1106,50): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1092): message : while compiling class template member function 'T MiniExcelClass<T>::calculateRangeAverage(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1847): message : see reference to function template instantiation 'T MiniExcelClass<T>::calculateRangeAverage(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1036,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1019): message : while compiling class template member function 'T MiniExcelClass<T>::calculateAverage(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1803): message : see reference to function template instantiation 'T MiniExcelClass<T>::calculateAverage(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1053,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1070,54): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1000,50): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(989): message : while compiling class template member function 'T MiniExcelClass<T>::calculateRangeSum(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1858): message : see reference to function template instantiation 'T MiniExcelClass<T>::calculateRangeSum(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(935,53): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(917): message : while compiling class template member function 'T MiniExcelClass<T>::sumTotal(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1776): message : see reference to function template instantiation 'T MiniExcelClass<T>::sumTotal(MiniExcelClass<T>::NodeCell<T> *,MiniExcelClass<T>::NodeCell<T> *,T,T,T,T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(952,53): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(969,53): warning C4101: 'e': unreferenced local variable
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(792,32): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(741): message : while compiling class template member function 'void MiniExcelClass<std::string>::deleteColumn(void)'
+D:\3rd Semester\DSA\Mini Excel\2022-CS-149.cpp(1781): message : see reference to function template instantiation 'void MiniExcelClass<std::string>::deleteColumn(void)' being compiled
+  Mini Excel.vcxproj -> D:\3rd Semester\DSA\Mini Excel\Debug\Mini Excel.exe
